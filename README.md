@@ -19,6 +19,7 @@ The evaluation framework consists of two main components:
 
 ### Running the Generator
 1. Configure input parameters (e.g., subsets of patient information, number of obligations) in the benchmark.properties file.  
-2. Run the generator to create a set of obligations stored in **Turtle (.ttl) files**.  
+2. Run the generator to create a set of obligations stored in **Turtle (.ttl) files**.
+3. The script for running the Test Harness can be found under the scripts folder.
 
 [1] https://zenodo.org/records/18891663
