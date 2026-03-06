@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Main-Class: wu.ac.at.owl.evaluation.TestHarness
+Created-By: Maven Integration for Eclipse
+
